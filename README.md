@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am interested in learning Computer Science.
+I am working on a Computer Science project.
+My favorite hobby is learning Computer Science.
+
 <!--
 **khchoi0/khchoi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
