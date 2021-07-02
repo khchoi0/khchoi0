@@ -1,7 +1,7 @@
 ### Hi there, I am Ka Hou CHOI. 👋
 
 Keen on digging into the logic behind things, would feel satisfied when works finished thoroughly.
-My career objective is trying to be one in teams which build contributing tools for the society
+My dream career is trying to be one in teams which build contributing tools for the society
 and at the same time preventing disasters brought by the tools I would have built.
 
 <!--
