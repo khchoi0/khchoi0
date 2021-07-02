@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I am Ka Hou CHOI. 👋
 
-I am interested in learning Computer Science.  
-I am working on a Computer Science project.  
-My favorite hobby is learning Computer Science.  
+Keen on digging into the logic behind things, would feel satisfied when works finished thoroughly.
+My career objective is trying to be one in teams which build contributing tools for the society
+and at the same time preventing disasters brought by the tools I would have built.
 
 <!--
 **khchoi0/khchoi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
