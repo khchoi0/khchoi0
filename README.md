@@ -1,7 +1,7 @@
 ### Hi there, I am Ka Hou CHOI. 👋
 
-Keen on digging into the logic behind things, would feel satisfied when works finished thoroughly.
-My dream career is trying to be one in teams which build contributing tools for the society
+Keen on digging into the logic behind things, would feel satisfied when projects finished thoroughly.
+My ambition is trying to be one in the team which build contributing tools for the society
 and at the same time preventing disasters brought by the tools I would have built.
 
 <!--
