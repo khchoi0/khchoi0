@@ -4,6 +4,9 @@ Keen on digging into the logic behind things, would feel satisfied when projects
 My ambition is trying to be one in the team which build contributing tools for the society
 and at the same time preventing disasters brought by the tools I would have built.
 
+「止於至善」
+“In Pursuit of Excellence”
+
 <!--
 **khchoi0/khchoi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
