@@ -1,7 +1,6 @@
 ### Hi there, I am Ka Hou CHOI. 👋
 
-Keen on digging into the logic behind things, would feel satisfied when projects finishes thoroughly. 
-My ambition is trying to be the team member who builds tools for the society and at the same time avoiding potential risks brought by the tools I would have built.
+I am keen on digging into the logic behind things and can learn quickly. I wish to be in a team that builds tools for the betterment of the community. Meanwhile, try to prevent potential abuse of any frameworks implemented.
 
 「止於至善」
 “In Pursuit of Excellence”
